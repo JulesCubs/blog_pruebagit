@@ -1,1 +1,6 @@
-Esta es la historia del estudio en linea
+Este es prueba de Git
+
+Julian Cubillos 34 a�os
+
+aprendiendo git y github
+y conociendo mas acerca de esto
